@@ -1,0 +1,9 @@
+Source: record ptbdb/patient247/s0479_re
+val has 1 row (signal) and 120012 columns (samples/signal)
+Duration:     2:00
+Sampling frequency: 1000 Hz  Sampling interval: 0.001 sec
+Row	Signal	Gain	Base	Units
+1	i	2000	0	mV
+
+To convert from raw units to the physical units shown
+above, subtract 'base' and divide by 'gain'.

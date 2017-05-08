@@ -1,0 +1,9 @@
+Source: record nsrdb/16272  Start: [10:45:00.000]
+val has 1 row (signal) and 1000000 columns (samples/signal)
+Duration:  2:10:12
+Sampling frequency: 128 Hz  Sampling interval: 0.0078125 sec
+Row	Signal	Gain	Base	Units
+1	ECG1	200	0	mV
+
+To convert from raw units to the physical units shown
+above, subtract 'base' and divide by 'gain'.
